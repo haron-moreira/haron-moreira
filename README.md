@@ -1,9 +1,9 @@
 ## 🙋‍♂️ Hello, my name is Haron Moreira!
 
-🔭 Currently, I'm Junior Full Stack Developer at Surf Telecom. <br>
+🔭 Currently, I'm Full Stack Developer at Surf Telecom. <br>
 📃 Computer Technician. <br>
-📎 Studying Systems Analysis and Development at Impacta Technology. <br>
-🌱 Studying Laravel, Python, NodeJs and others technologies. <br>
+📎 Graduated in Systems Analysis and Development at Impacta College. <br>
+🌱 Studying consistently, always seeking growth and staying updated. <br>
 
 <div align="center">
   <a href="https://github.com/haron-moreira">
