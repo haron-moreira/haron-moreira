@@ -21,3 +21,6 @@ Thumbs.db
 
 # Claude
 CLAUDE.md
+
+# Personal docs
+*.pdf
