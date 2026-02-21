@@ -1,111 +1,85 @@
-# 👨‍💻 Haron Moreira  
-### Full Cycle Software Engineer | Cloud & Telecom (BSS/OSS)
-
-I am a full-cycle software engineer with strong experience in **distributed architectures**,  
-**microservices**, **cloud infrastructure**, **AWS**, **Node.js**, and large-scale **Telecom (BSS/OSS)** systems.
-
-I build complete solutions end-to-end — from backend and databases to infrastructure, DevOps, observability, and frontend integration.
-
----
-
-## 📊 GitHub Statistics
-
 <div align="center">
 
-### ⭐ Overall GitHub Stats
-![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=haron-moreira&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
+# Haron Moreira
 
-### 🔥 Contribution Streak
-![GitHub Streak](https://streak-stats.demolab.com?user=haron-moreira&theme=tokyonight&hide_border=true)
+**Senior Software Engineer | Cloud & Telecom (BSS/OSS)**
 
-### 🧠 Most Used Languages
-![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=haron-moreira&layout=compact&hide_border=true&theme=tokyonight)
+Software Engineer with strong backend expertise in Node.js, NestJS, and microservices architecture.
+Currently leading a team on a global telecom platform serving the US market — managing the full customer lifecycle, payment processing, number portability, SIM/eSIM activation, and async operations across 26+ message queues.
 
-### 📈 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haron-moreira&theme=tokyo-night&hide_border=true)
+[![Portfolio](https://img.shields.io/badge/Portfolio-haron--moreira.github.io-violet?style=for-the-badge&logo=googlechrome&logoColor=white)](https://haron-moreira.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-haron--moreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haron-moreira/)
+[![Email](https://img.shields.io/badge/Email-haron.cm@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haron.cm@gmail.com)
 
 </div>
 
 ---
 
-## 🚀 Core Technical Skills
+### Core Stack
 
-### 🧩 **Backend & Architecture**
-- Node.js • TypeScript • Express • NestJS  
-- Clean Architecture • SOLID • DDD  
-- Microservices design (authentication, account, recharge, portability, billing, reporting, etc.)  
-- REST APIs, WebSockets, secure JWT flows (httpOnly cookies)  
-- Automated tests with **Jest** and **Supertest**  
-- High-performance debugging and optimization  
+```
+Node.js  ·  TypeScript  ·  NestJS  ·  AWS  ·  Python  ·  React  ·  Next.js  ·  Docker  ·  MySQL  ·  Redis
+```
 
 ---
 
-## 🗄️ **Databases & Persistence**
-- **SQL:** MySQL / MariaDB (advanced queries, indexing, modeling, tuning)  
-- **NoSQL:** DynamoDB, MongoDB  
-- **Caching:** Redis / Valkey (sessions, tokens, TTL logic, caching layers)  
-- Event-driven synchronization for reporting (SQS + DB sync pipelines)  
+### Backend & Architecture
+
+- Node.js, TypeScript, NestJS, Express, PHP, Python
+- Clean Architecture, SOLID, DDD, Microservices
+- REST APIs, WebSockets, JWT Auth (httpOnly cookies)
+- Jest, Supertest, Swagger
+
+### Databases & Persistence
+
+- MySQL / MariaDB, AWS RDS, DynamoDB, MongoDB
+- Redis / Valkey, Query Tuning & Indexing
+- Connection Pooling & Caching, Event-driven Sync (SQS + DB)
+
+### Cloud & DevOps (AWS)
+
+- ECS Fargate, EC2, Lambda (Node.js & Python), API Gateway, ALB
+- S3, CloudFront, Route53, ACM, WAF, SQS, EventBridge
+- CloudWatch, AWS X-Ray, Docker, CI/CD
+- Prometheus, Grafana, Zabbix
+
+### Telecom (BSS/OSS)
+
+- SIM/eSIM activation, Port-in/Port-out, Subscriber lifecycle
+- Billing, Recharge, High-availability systems
+- MVNO operations, War Room / Crisis Resolution
+- Data pipelines & reporting for NOC/N3 teams
+
+### Frontend
+
+- React, Next.js, React Native, TailwindCSS
+- TypeScript, SSR/SSG/ISR, Responsive & Mobile First
+- Vite, Webpack
 
 ---
 
-## ☁️ **Cloud & DevOps (AWS)**
+<div align="center">
 
-- ECS Fargate • EC2 • API Gateway • ALB  
-- Lambda (Node.js & Python)  
-- S3 • CloudFront • Route53 • ACM • WAF  
-- CloudWatch Logs & Metrics  
-- Distributed tracing with **AWS X-Ray**  
-- Full Docker workflow and CI/CD best practices  
-- Observability with:
-  - Prometheus  
-  - Grafana  
-  - node_exporter  
-  - blackbox_exporter  
+### GitHub Stats
 
----
+![GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=haron-moreira&show_icons=true&count_private=true&hide_border=true&theme=tokyonight)
 
-## 📡 **Telecom (BSS/OSS) Expertise**
+![GitHub Streak](https://streak-stats.demolab.com?user=haron-moreira&theme=tokyonight&hide_border=true)
 
-Hands-on experience building and maintaining mission-critical telecom systems:
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=haron-moreira&layout=compact&hide_border=true&theme=tokyonight)
 
-- SIM/eSIM activation flows  
-- Portability: **Port-in / Port-out**  
-- Subscriber state lifecycle  
-- Billing, consumption rules, expiration logic  
-- Heavy-user detection and usage pipelines  
-- MVNO integrations and operations  
-- Network and provisioning systems:
-  - HLR  
-  - Summa  
-  - Nexus  
-  - T-Mobile / MVNO ecosystems  
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=haron-moreira&theme=tokyo-night&hide_border=true)
 
-Also experienced in creating **data pipelines and reporting services** supporting NOC / N3 operational teams.
+</div>
 
 ---
 
-## 🧱 **Frontend**
-- React  
-- Next.js  
-- TailwindCSS  
-- SSR / SSG  
-- Advanced authentication with JWT + secure cookies  
+<div align="center">
 
----
+**Look Code** — Custom software, consulting & tech solutions
 
-## 🧭 **Professional Strengths**
-- Full-cycle ownership: backend → DB → infra → observability → frontend  
-- Strong experience building **high-availability telecom systems**  
-- Technical leadership for junior and intern developers  
-- Architectural decision-making for distributed systems  
-- End-to-end debugging across microservices, queues, caches, and APIs  
-- Product mindset with focus on scalability and maintainability  
+[![Website](https://img.shields.io/badge/lookcode.com.br-emerald?style=flat-square&logo=googlechrome&logoColor=white)](https://lookcode.com.br)
+[![Email](https://img.shields.io/badge/tech@lookcode.com.br-orange?style=flat-square&logo=gmail&logoColor=white)](mailto:tech@lookcode.com.br)
+[![WhatsApp](https://img.shields.io/badge/+55_11_93304--3152-25D366?style=flat-square&logo=whatsapp&logoColor=white)](https://wa.me/5511933043152)
 
----
-
-## 📬 Contact  
-**Email:** haron.cm@gmail.com 
-**LinkedIn:** [Click here](https://www.linkedin.com/in/haron-moreira/)  
-
----
-
+</div>
