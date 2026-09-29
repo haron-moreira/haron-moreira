@@ -7,7 +7,7 @@
 Software Engineer with strong backend expertise in Node.js, NestJS, and microservices architecture.
 Currently leading a team on a global telecom platform serving the US market — managing the full customer lifecycle, payment processing, number portability, SIM/eSIM activation, and async operations across 26+ message queues.
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-haron--moreira.github.io-violet?style=for-the-badge&logo=googlechrome&logoColor=white)](https://haron-moreira.github.io)
+[![Portfolio](https://img.shields.io/badge/Portfolio-haron--moreira.github.io-violet?style=for-the-badge&logo=googlechrome&logoColor=white)](https://haron.site)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-haron--moreira-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/haron-moreira/)
 [![Email](https://img.shields.io/badge/Email-haron.cm@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:haron.cm@gmail.com)
 
